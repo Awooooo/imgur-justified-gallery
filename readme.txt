@@ -1,7 +1,7 @@
 ===THIS PROJECT IS INCOMPLETE===
 This project is currently a copy of the flickr-justified-gallery wordpress plugin.
 
-This project will eventually be converted to function identically but with imgur instead of flickr.
+This project will hopefully be turned into a hacky mess to make it display an imgur album instead of a flickr album.
 
 All rights and licensing remain true to the original project. Everything below this line is identical to the readme of the original files.
 
