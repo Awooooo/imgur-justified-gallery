@@ -1,3 +1,10 @@
+===THIS PROJECT IS INCOMPLETE===
+This project is currently a copy of the flickr-justified-gallery wordpress plugin.
+
+This project will eventually be converted to function identically but with imgur instead of flickr.
+
+All rights and licensing remain true to the original project.
+
 === Flickr Justified Gallery ===
 Contributors: miro.mannino
 Donate link: http://miromannino.com/projects/flickr-justified-gallery/#helptheproject
