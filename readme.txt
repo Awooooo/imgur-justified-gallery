@@ -3,7 +3,7 @@ This project is currently a copy of the flickr-justified-gallery wordpress plugi
 
 This project will eventually be converted to function identically but with imgur instead of flickr.
 
-All rights and licensing remain true to the original project.
+All rights and licensing remain true to the original project. Everything below this line is identical to the readme of the original files.
 
 === Flickr Justified Gallery ===
 Contributors: miro.mannino
